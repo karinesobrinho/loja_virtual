@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1051855335482",
+    "firebase_url": "https://lojavirtual-bdae6.firebaseio.com",
+    "project_id": "lojavirtual-bdae6",
+    "storage_bucket": "lojavirtual-bdae6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051855335482:android:f5aa277b8f629b32f5c503",
+        "android_client_info": {
+          "package_name": "br.com.sobrinho.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051855335482-d1g29fg6mqugj21om96nkmfn9mb4s9f3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAIpGHAKIVYZjkEOO1oGglO6ZscFtJd0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051855335482-d1g29fg6mqugj21om96nkmfn9mb4s9f3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
